@@ -75,7 +75,11 @@ img {
 }
 
 /* Modal-css */
-.modal-content {
-    width: 90%;
+.footer-section {
+    background-color: #161616;
+}
 
+.social-icon a {
+    color: #fff;
+    background-color: #161616;
 }
