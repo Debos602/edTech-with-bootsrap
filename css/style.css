@@ -35,7 +35,19 @@ img {
     font-weight: 400;
 }
 
+.navbar-nav .nav-link.active {
+    color: #0a58ca
+}
+
+.z-index-9 {
+    z-index: 9;
+}
+
 /* slider-css */
+.hero-slider {
+    margin-top: 72px;
+}
+
 .content-inner {
     background-position: center;
     background-size: cover;
